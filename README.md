@@ -46,8 +46,17 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-![alt text](image.png)
-![alt text](image-1.png)
+Support Removal Process
+<img width="1919" height="803" alt="Screenshot 2026-03-16 214025" src="https://github.com/user-attachments/assets/d9e24598-f090-41ae-8cdf-c688c6ef8f7a" />
+
+ UV Curing of 3D printed part
+ <img width="1919" height="796" alt="Screenshot 2026-03-16 214058" src="https://github.com/user-attachments/assets/e4051b83-3573-4b24-9e15-1b116bb1d2d0" />
+
+ Heat Treatment of 3D printed part
+ <img width="1919" height="818" alt="Screenshot 2026-03-16 214118" src="https://github.com/user-attachments/assets/9d50fd11-4848-4420-a609-67c5811d78fc" />
+
+ 
+
 
 ### Name:M.V.SIDDARTH
 ### Register Number:212225230267
